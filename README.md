@@ -96,7 +96,58 @@
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
+
+
+
+
 ---
+
+## 🚀 Featured Projects
+
+### 🏥 AI / Healthcare
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🤖 medical-rag-chatbot](https://github.com/GOUTAM-RAM21/medical-rag-chatbot) | RAG-based medical chatbot using AI for healthcare queries | JavaScript |
+| [💊 healthcare-chatbot](https://github.com/GOUTAM-RAM21/healthcare-chatbot) | Intelligent chatbot for healthcare assistance | JavaScript |
+| [🧠 my-project-medimind-ai](https://github.com/GOUTAM-RAM21/my-project-medimind-ai) | MediMind AI — smart medical assistant project | JavaScript |
+| [🧬 final_model](https://github.com/GOUTAM-RAM21/final_model) | Final AI model implementation | Python |
+
+### 📊 Machine Learning & Data Science
+| Project | Description | Tech |
+|--------|-------------|------|
+| [💳 creditwise-loan-system](https://github.com/GOUTAM-RAM21/creditwise-loan-system) | End-to-end ML project for loan approval prediction using Logistic Regression, KNN & Naive Bayes with Streamlit | Jupyter Notebook |
+| [🎬 movie-recommender-system](https://github.com/GOUTAM-RAM21/movie-recommender-system) | Content-based movie recommender using TMDB dataset & Streamlit web app | Python |
+| [📈 data-science-ml](https://github.com/GOUTAM-RAM21/data-science-ml) | Practice work and projects while learning Data Science & Machine Learning | Jupyter Notebook |
+| [🐼 pandas-project](https://github.com/GOUTAM-RAM21/pandas-project) | Data analysis and manipulation using Pandas | Jupyter Notebook |
+| [🐍 PythonProject](https://github.com/GOUTAM-RAM21/PythonProject) | Python programming projects and exercises | Jupyter Notebook |
+
+### 👁️ Computer Vision
+| Project | Description | Tech |
+|--------|-------------|------|
+| [😊 real-time-face-detection-recognition](https://github.com/GOUTAM-RAM21/real-time-face-detection-recognition) | Real-time face detection & recognition system using OpenCV | Python |
+
+### 🌐 Web & Backend
+| Project | Description | Tech |
+|--------|-------------|------|
+| [⚡ fastapi-project](https://github.com/GOUTAM-RAM21/fastapi-project) | Backend API development using FastAPI | Jupyter Notebook |
+| [🏨 hotel-reservation-system](https://github.com/GOUTAM-RAM21/hotel-reservation-system) | Hotel booking and reservation management system | Python |
+| [🧮 calculator](https://github.com/GOUTAM-RAM21/calculator) | Python-based calculator application | Python |
+
+### 🏆 Hackathon
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🎯 PU_project_gau](https://github.com/GOUTAM-RAM21/PU_project_gau) | **Parul University Hackathon** project | JavaScript |
+
+### 💻 DSA & Language Practice
+| Project | Description | Tech |
+|--------|-------------|------|
+| [📘 C--CODE-PRATICE](https://github.com/GOUTAM-RAM21/C--CODE-PRATICE) | C++ DSA practice and problem solving | Jupyter Notebook |
+| [🔧 c-cpp-practice](https://github.com/GOUTAM-RAM21/c-cpp-practice) | C and C++ coding practice | - |
+| [💡 C-CODE](https://github.com/GOUTAM-RAM21/C-CODE) | Core C programming exercises | - |
+
+
+---
+
 ## 📊 GitHub Stats
 
 
