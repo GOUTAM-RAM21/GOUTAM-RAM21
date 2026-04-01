@@ -99,29 +99,8 @@
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GOUTAM-RAM21&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GOUTAM-RAM21&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOUTAM-RAM21&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-
-</div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GOUTAM-RAM21&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
-
-</div>
 
 **"Data is the new oil — and I'm learning to refine it. 🛢️"**
 
